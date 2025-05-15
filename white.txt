@@ -1,0 +1,13 @@
+||plus01.mhsg.local^
+||whatsapp.net^
+||whatsapp.com^
+||web.whatsapp.com^
+||mmg.whatsapp.net^
+||g.whatsapp.net^
+||google.com^
+||googleapis.com^
+||gstatic.com^
+||gmail.com^
+||googleusercontent.com^
+||econovo.local^
+||oseys.infra^
