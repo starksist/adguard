@@ -25,3 +25,4 @@
 ||s.ytimg.com^
 ||video.google.com^
 ||redirector.googlevideo.com^
+||google-analytics.com^
