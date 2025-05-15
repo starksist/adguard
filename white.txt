@@ -1,4 +1,5 @@
-||plus01.mhsg.local^
+||plus01.mhsg.host^
+||mhsg.host^
 ||whatsapp.net^
 ||whatsapp.com^
 ||web.whatsapp.com^
@@ -11,3 +12,16 @@
 ||googleusercontent.com^
 ||econovo.local^
 ||oseys.infra^
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||ytimg.com^
+||googlevideo.com^
+||yt3.ggpht.com^
+||yt3.googleapis.com^
+||youtubei.googleapis.com^
+||youtube.googleapis.com^
+||i.ytimg.com^
+||s.ytimg.com^
+||video.google.com^
+||redirector.googlevideo.com^
